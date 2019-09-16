@@ -11,5 +11,6 @@ int main()
     a = b;
     b = c;
     cout << "A: " << a << "\nB: " << b;
+    system("pause");
     return 0;
 }
