@@ -9,5 +9,6 @@ int main()
     cin >> a;
     b = 3*pow(a,6) - 6*pow(a,3) - 7;
     cout << b;
+    system("pause");
     return 0;
 }
