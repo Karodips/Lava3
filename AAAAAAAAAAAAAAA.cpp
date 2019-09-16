@@ -15,5 +15,6 @@ int main()
     a = a*a;
     a = a*b;
     cout << a;
+    system("pause");
     return 0;
 }
