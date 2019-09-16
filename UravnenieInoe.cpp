@@ -10,5 +10,6 @@ int main()
     a = a-3;
     b = 4*pow(a,6) - 7*pow(a,3) + 2;
     cout << b;
+    system("pause");
     return 0;
 }
