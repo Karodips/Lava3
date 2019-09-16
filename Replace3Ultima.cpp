@@ -13,5 +13,6 @@ int main()
     b = c;
     c = pomoch;
     cout << "A: " << a << "\nB: " << b << "\nC: " << c;
+    system("pause");
     return 0;
 }
